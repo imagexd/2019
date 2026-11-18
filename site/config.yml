@@ -1,4 +1,4 @@
-baseurl: "https://xd-con.org/imagexd-2019"
+baseurl: "https://imagexd.github.io/2019"
 title: "ImageXD 2019"
 canonifyurls: true
 theme: "hugo-conference"

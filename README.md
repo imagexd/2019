@@ -14,4 +14,4 @@ and place it somewhere on your path.
 
 - `make html` : Build the static website
 - `make serve` : Serve the website locally and monitor for changes.
-- `make github` : Upload the website to GitHub Pages (https://xd-con.org/imagexd-2019)
+- `make github` : Upload the website to GitHub Pages (https://imagexd.github.io/2019/)
